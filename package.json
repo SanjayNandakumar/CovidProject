@@ -1,0 +1,38 @@
+{
+  "name": "CovidProject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.3.0",
+    "leaflet": "^1.9.4",
+    "plotly.js": "^2.35.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-leaflet": "^4.2.1",
+    "react-plotly.js": "^2.6.0",
+    "react-redux": "^9.1.2",
+    "react-slick": "^0.30.2",
+    "redux": "^5.0.1",
+    "slick-carousel": "^1.8.1",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.6.3",
+    "webpack": "^5.96.1",
+    "webpack-cli": "^5.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanjayNandakumar/CovidProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanjayNandakumar/CovidProject/issues"
+  },
+  "homepage": "https://github.com/SanjayNandakumar/CovidProject#readme"
+}
